@@ -171,7 +171,7 @@ python -m streamlit run app.py
 
 ## Demo Aplikasi
 
-https://smart-energy-audit-ashindhu.streamlit.app/
+[https://smart-energy-audit-ashindhu.streamlit.app/](https://prediksi-konsumsi-listrik-ml.streamlit.app/)
 
 ---
 
